@@ -58,7 +58,7 @@ This is my calculator using HTML, CSS and Javascript
     width: 100%;
     padding: 20px;
     font-size: 5rem;
-    text-align: right;
+    text-align: left;
     border: none;
     background-color: hsl(0, 0%, 20%);
     color: white;
